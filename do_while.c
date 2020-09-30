@@ -7,5 +7,7 @@ do{
     i++;
 }
 while(i<10);
+   printf("these are the numbers from 0 to 10");
+   
     return 0;
 }
